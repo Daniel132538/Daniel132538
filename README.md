@@ -33,6 +33,7 @@
     ![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
     ![C](https://img.shields.io/badge/C%20Language-blue?logo=c)
     ![Java](https://img.shields.io/badge/Java-%20orange)
+    ![Java](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 <br>   
     
@@ -56,13 +57,13 @@
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=androidstudio)
     ![Visual Studio](https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio)
     ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-blue?logo=visualstudio)
+    ![Microsoft SQL Server](https://img.shields.io/badge/VisualStudioCode-white?logo=microsoftsqlserver)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
 
 
 </p>

@@ -13,7 +13,7 @@
 
 <br>
 
-- A passionate Software Engineer Developer
+- :computer: A passionate Software Engineer Developer
 - :school: I am a `Junior` at [Computer Science](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Public University of Navarra](http://suez.edu.eg/ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.

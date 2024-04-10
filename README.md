@@ -33,7 +33,7 @@
     ![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
     ![C](https://img.shields.io/badge/C%20Language-blue?logo=c)
     ![Java](https://img.shields.io/badge/Java-%20orange)
-    ![Java](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+    ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
 
 <br>   
     
@@ -57,7 +57,7 @@
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=androidstudio)
     ![Visual Studio](https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio)
     ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-blue?logo=visualstudio)
-    ![Microsoft SQL Server](https://img.shields.io/badge/VisualStudioCode-white?logo=microsoftsqlserver)
+    ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-darkblue?logo=microsoftsqlserver)
 
 <br>
 

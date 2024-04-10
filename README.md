@@ -34,6 +34,7 @@
     ![C](https://img.shields.io/badge/C%20Language-blue?logo=c)
     ![Java](https://img.shields.io/badge/Java-%20orange)
     ![MySQL](https://img.shields.io/badge/SQL-white?logo=mysql)
+    ![Python](https://img.shields.io/badge/Python-white?logo=python)
 
 <br>   
     

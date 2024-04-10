@@ -33,7 +33,7 @@
     ![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
     ![C](https://img.shields.io/badge/C%20Language-blue?logo=c)
     ![Java](https://img.shields.io/badge/Java-%20orange)
-    ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
+    ![MySQL](https://img.shields.io/badge/SQL-white?logo=mysql)
 
 <br>   
     

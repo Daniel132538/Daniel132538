@@ -31,10 +31,11 @@
 - **Languages**:
     
     ![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
+    ![Python](https://img.shields.io/badge/Python-white?logo=python)
     ![C](https://img.shields.io/badge/C%20Language-blue?logo=c)
     ![Java](https://img.shields.io/badge/Java-%20orange)
     ![MySQL](https://img.shields.io/badge/SQL-white?logo=mysql)
-    ![Python](https://img.shields.io/badge/Python-white?logo=python)
+    
 
 <br>   
     
@@ -55,9 +56,9 @@
 - **Softwares and Tools**:
 
     ![XAMPP](https://img.shields.io/badge/XAMPP-white?logo=xampp)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=androidstudio)
     ![Visual Studio](https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio)
     ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-blue?logo=visualstudio)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=androidstudio)
     ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-darkblue?logo=microsoftsqlserver)
 
 <br>

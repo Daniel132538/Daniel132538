@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Daniel Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Daniel+Perez..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -54,7 +54,7 @@
 
 - **Softwares and Tools**:
 
-    ![XAML](https://img.shields.io/badge/XAML-orange?logo=xaml)
+    ![XAMPP](https://img.shields.io/badge/XAMPP-white?logo=xampp)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=androidstudio)
     ![Visual Studio](https://img.shields.io/badge/VisualStudio-purple?logo=visualstudio)
     ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-blue?logo=visualstudio)
